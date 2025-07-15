@@ -17,23 +17,8 @@ permalink: /
 
 ## Первый шаг к такому мышлению — навести порядок в собственном мире.
 ### Гид в мир личного дневника: персональный бесконечный инструмент творческой продуктивности шаг за шагом
-**→**
 
-<div style="text-align: center; margin: 20px 0;">
-    <a href="/daily-notes-guide/pay/form" target="_blank" style="
-        display: inline-block;
-        padding: 12px 24px;
-        background: #4CAF50;
-        color: white;
-        text-decoration: none;
-        border-radius: 6px;
-        font-weight: bold;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-        transition: background 0.3s;
-    ">Получить доступ за 1990 ₽</a>
-</div>
-
-<div style="text-align: center; margin: 20px 0;">
+<div style="text-align: left; margin: 20px 0;">
     <a href="/daily-notes-guide/pay/form" target="_blank" style="
         display: inline-block;
         padding: 12px 24px;
