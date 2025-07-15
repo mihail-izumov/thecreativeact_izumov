@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Телеграм-канал": "https://t.me/izumov",
+      "Supply": "https://orxaos-shop.fourthwall.com/en-eur/",
       "Архив проектов и публикаций": "/archive"
     },
   }),
