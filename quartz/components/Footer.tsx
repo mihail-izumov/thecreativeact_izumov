@@ -20,7 +20,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <p>© 2025 Михаил Изюмов</p>
+        <p>© Orxaos | Михаил Изюмов 2025</p>
       </footer>
     )
   }
