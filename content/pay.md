@@ -5,24 +5,21 @@ link: /pay
 ---
 # Оплата
 
-## Оплата доступа
-123
-
-## Оплата
-
-<div id="yookassa-form-container"></div>
+<div class="yookassa-form" style="
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+">
+    <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
+    <form class="yoomoney-payment-form" ...>
+        <!-- Ваша форма -->
+    </form>
+</div>
 
 <script>
-// Динамически загружаем форму
-fetch('/payment-form.html')
-  .then(response => response.text())
-  .then(html => {
-    document.getElementById('yookassa-form-container').innerHTML = html;
-    // Подгружаем скрипт ЮKassa
-    const script = document.createElement('script');
-    script.src = 'https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js';
-    document.body.appendChild(script);
-  });
+// Скрипт загрузки ЮKassa
 </script>
+
 
 123
