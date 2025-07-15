@@ -5,8 +5,6 @@ link: /pay
 ---
 # Оплата
 
-## Оплата
-
 <div id="yookassa-form-container" style="
     background: white;
     padding: 25px;
