@@ -20,7 +20,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <p>© 2024 Михаил Изюмов</p>
+        <p>© 2025 Михаил Изюмов</p>
       </footer>
     )
   }
