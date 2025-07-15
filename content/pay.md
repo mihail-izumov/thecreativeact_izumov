@@ -8,10 +8,20 @@ link: /pay
 ## Оплата доступа
 123
 
-<iframe 
-    src="/payment-form.html" 
-    width="100%" 
-    height="600px"
-    style="border: none;"
-></iframe>
->
+## Оплата
+
+<div id="yookassa-form-container"></div>
+
+<script>
+// Динамически загружаем форму
+fetch('/payment-form.html')
+  .then(response => response.text())
+  .then(html => {
+    document.getElementById('yookassa-form-container').innerHTML = html;
+    // Подгружаем скрипт ЮKassa
+    const script = document.createElement('script');
+    script.src = 'https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js';
+    document.body.appendChild(script);
+  });
+</script>
+
