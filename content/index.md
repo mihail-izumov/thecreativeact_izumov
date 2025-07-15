@@ -1,20 +1,26 @@
 ---
-title: Михаил Изюмов
+title: Мечтать и действовать. Расти по своим правилам.
 draft: false
 dg-publish: true
+permalink: /
 ---
 ![[mihail_izumov_foto-cropped(2).png|140]]
-# Мечтать и действовать. Расти по своим правилам.
 
-Я — Михаил Изюмов, основатель Модуля Роста. Помогаю сильным людям обрести ясность и фокус.
-## Преврати хаос в силу.
+# Преврати хаос в силу.
+## **Мечтать и действовать. Расти по своим правилам.**
 
+Я — Михаил Изюмов, основатель Модуля Роста®. 
+
+Помогаю бизнесу превращать идеи в системы, а проблемы — в точки роста. Сочетаю системный анализ с креативным видением, чтобы создавать процессы, которые живут и работают после моего ухода.
+
+---
+
+## Первый шаг к такому мышлению — навести порядок в собственном мире.
 ### Гид в мир личного дневника: персональный бесконечный инструмент творческой продуктивности шаг за шагом
+**→**
 
-**[Кнопка]** → **Получить доступ за 1990 ₽**
-[[pay]]
 <div style="text-align: center; margin: 20px 0;">
-    <a href="/pay" target="_blank" style="
+    <a href="/daily-notes-guide/pay/form" target="_blank" style="
         display: inline-block;
         padding: 12px 24px;
         background: #4CAF50;
@@ -27,10 +33,29 @@ dg-publish: true
     ">Получить доступ за 1990 ₽</a>
 </div>
 
+<div style="text-align: center; margin: 20px 0;">
+    <a href="/daily-notes-guide/pay/form" target="_blank" style="
+        display: inline-block;
+        padding: 12px 24px;
+        background: black;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        border: 2px solid black;
+        box-shadow: 0 0 0 2px white;
+        transition: all 0.3s;
+        position: relative;
+    " onmouseover="this.style.backgroundColor='white';this.style.color='black'" 
+    onmouseout="this.style.backgroundColor='black';this.style.color='white'">
+        → Получить доступ за 1990 ₽
+    </a>
+</div>
+
 <div id="yookassa-form">
     <!-- Ваш код формы ЮKassa -->
 </div>
-
+---
 
 _Обо мне_
 - [[cv|100 фактов обо мне]]
