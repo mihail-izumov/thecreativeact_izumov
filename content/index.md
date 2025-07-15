@@ -16,6 +16,8 @@ permalink: /
 
 [**Мои проекты**](https://hipolink.net/izumov)
 
+<a href="https://hipolink.net/izumov" target="_blank">Мои проекты</a>
+
 ---
 
 ### Первый шаг к такому мышлению — навести порядок в собственном мире.
