@@ -4,12 +4,33 @@ draft: false
 dg-publish: true
 ---
 ![[mihail_izumov_foto-cropped(2).png|140]]
-# [[not a blog|Это не блог.]]
+# Мечтать и действовать. Расти по своим правилам.
 
+Я — Михаил Изюмов, основатель Модуля Роста. Помогаю сильным людям обрести ясность и фокус.
+## Преврати хаос в силу.
+
+### Гид в мир личного дневника: персональный бесконечный инструмент творческой продуктивности шаг за шагом
+
+**[Кнопка]** → **Получить доступ за 1990 ₽**
 [[pay]]
+<div style="text-align: center; margin: 20px 0;">
+    <a href="/pay" target="_blank" style="
+        display: inline-block;
+        padding: 12px 24px;
+        background: #4CAF50;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        transition: background 0.3s;
+    ">Получить доступ за 1990 ₽</a>
+</div>
 
-**Основатель [Модуля Роста™](https://kto1.io/), бизнес-консультант и руководитель творческих команд.**
-Вы также можете знать меня по русскому саммари книги Рика Рубина [[Саммари The Creative Act - A Way of Being|The Creative Act: A Way of Being]], которое я опубликовал на этом сайте 17 марта 2023 года.
+<div id="yookassa-form">
+    <!-- Ваш код формы ЮKassa -->
+</div>
+
 
 _Обо мне_
 - [[cv|100 фактов обо мне]]
