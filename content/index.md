@@ -1,8 +1,9 @@
 ---
-title: Привет, я — Михаил👋
+title: Михаил Изюмов
 draft: false
+dg-publish: true
 ---
-![[mihail_izumov_foto-cropped.jpg|140]]
+![[mihail_izumov_foto-cropped(2).png|140]]
 # [[not a blog|Это не блог.]]
 
 [[pay]]

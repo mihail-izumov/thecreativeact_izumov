@@ -3,6 +3,7 @@ title: Подкаст Чудесной Гостиной
 tags:
   - подкаст
 link: /podcast/index
+draft: true
 ---
 # Подкаст Чудесной Гостиной
 

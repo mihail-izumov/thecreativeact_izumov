@@ -1,7 +1,8 @@
 ---
 title: Это - не блог
-dg-permalink: "not-a-blog"
-dg-publish: true
+dg-permalink: not-a-blog
+dg-publish: false
+draft: true
 ---
 # Добро пожаловать в мой цифровой сад.
 

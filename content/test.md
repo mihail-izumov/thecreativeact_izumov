@@ -4,3 +4,4 @@ tags:
 link: /test
 ---
 test1
+test2
