@@ -8,9 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Модуль Роста®": "https://runscale.ru/",
       "Телеграм-канал": "https://t.me/izumov",
-      "Информация о сайте": "/credits"
+      "Архив проектов и публикаций": "/archive"
     },
   }),
 }
