@@ -7,26 +7,11 @@ link: /pay
 
 ## Оплата доступа
 123
-123
-123
-<div class="yookassa-form">
-    <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
-    <form class="yoomoney-payment-form" action="https://yookassa.ru/integration/simplepay/payment" method="post" accept-charset="utf-8">
-        <!-- Ваш HTML-код формы (как в вашем примере) -->
-    </form>
-</div>
 
-<div class="yookassa-form">
-    <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
-    <form class="yoomoney-payment-form" action="https://yookassa.ru/integration/simplepay/payment" method="post" accept-charset="utf-8">
-        <!-- Ваш HTML-код формы (как в вашем примере) -->
-    </form>
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    var script = document.createElement('script');
-    script.src = 'https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js?v=1.25.0';
-    document.body.appendChild(script);
-});
-</script>
+<iframe 
+    src="/payment-form.html" 
+    width="100%" 
+    height="600px"
+    style="border: none;"
+></iframe>
+>
