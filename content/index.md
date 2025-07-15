@@ -11,7 +11,7 @@ permalink: /
 ## Гид в мир личного дневника: персональный бесконечный инструмент творческой продуктивности шаг за шагом.
 
 <div style="text-align: left; margin: 20px 0;">
-    <a href="/daily-notes-guide/pay/form" target="" style="
+    <a href="unlock/diary-guide/pay/form" target="" style="
         display: inline-block;
         padding: 12px 24px;
         background: black;
@@ -28,7 +28,7 @@ permalink: /
         → Получить доступ за ₽1990
     </a>
 </div>
-Что внутри? <a href="https://orxaos.sbs/daily-notes-guide/about" target="_blank">Посмотреть содержание</a>
+Что внутри? <a href="https://orxaos.sbs/unlock/diary-guide/about" target="_blank">Смотреть содержание</a>
 
 ---
 ## Мечтать и действовать. Расти по своим правилам.
@@ -43,8 +43,7 @@ permalink: /
 Модуль Роста — это системная диагностика, которая находит скрытые ресурсы компании и превращает их в процессы, которые работают по вашим правилам.
 
 Начните с себя, и ваша компания последует за вами.
-
-_Михаил Изюмов, основатель Модуля Роста®_
+_– Михаил Изюмов, основатель Модуля Роста®_
 
 <a href="https://hipolink.net/izumov" target="_blank">Мои проекты</a>
 
