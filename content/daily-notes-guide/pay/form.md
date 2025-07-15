@@ -1,11 +1,12 @@
 ---
 draft:
 ---
-# Цифровой дневник – Гид
+# Доступ к гиду
 
-# Форма оплаты
-
-Какой-то текст перед формой.
+Продукт:  **[[about|Гид «Ключ к Цифровому Дневнику»]]**
+Формат: **Онлайн-база знаний**
+Доступ: **Пожизненный** (в текущей версии гида)
+Условия: Вы получаете доступ к продукту **«как есть»**. Покупка не включает будущие обновления или личную поддержку по содержанию.
 
 <div class="payment-form-container" style="background-color: #ffffff; padding: 2rem 1rem; border-radius: 8px;">
 <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
@@ -51,4 +52,9 @@ draft:
 
 <script src="https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js?v=1.25.0"></script>
 
-Текст после формы.
+После оплаты нажмите → Вернуться на сайт → Пройдите по ссылке в базу знаний
+[[support|Техническая поддержка]] по вопросам оплаты и доступа
+
+**Удачи в работе.**
+
+<br>
