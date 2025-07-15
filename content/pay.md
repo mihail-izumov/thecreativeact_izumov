@@ -8,6 +8,7 @@ link: /pay
 ## Оплата доступа
 123
 123
+123
 <div class="yookassa-form">
     <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
     <form class="yoomoney-payment-form" action="https://yookassa.ru/integration/simplepay/payment" method="post" accept-charset="utf-8">
