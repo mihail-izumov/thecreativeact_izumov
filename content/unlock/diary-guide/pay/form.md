@@ -108,8 +108,29 @@ title: Доступ к гиду
 <script src="https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js?v=1.25.0"></script>
 
 ---
+
 <div class="payment-form-container" style="background-color: #ffffff; padding: 2rem 1rem; border-radius: 8px;">
 <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
+
+<!-- Добавляем дополнительные стили для расширения кнопки -->
+<style>
+.ym-btn-pay.ym-result-price {
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 280px !important;
+}
+
+.ym-payment-btn-block {
+    width: 100% !important;
+}
+
+.ym-text-crop {
+    white-space: nowrap !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+}
+</style>
+
 <form class="yoomoney-payment-form" action="https://yookassa.ru/integration/simplepay/payment" method="post" accept-charset="utf-8">
     <div class="ym-products">
         <div class="ym-block-title ym-products-title">Товары</div>
@@ -142,8 +163,7 @@ title: Доступ к гиду
         <div class="ym-input-icon-rub ym-display-none">
             <input name="sum" placeholder="0.00" class="ym-input ym-sum-input ym-required-input" type="number" step="any" value="1990">
         </div>
-        <!-- ИЗМЕНЕНИЕ ЗДЕСЬ -->
-        <button data-text="Открыть доступ" class="ym-btn-pay ym-result-price" style="width: 100%;">
+        <button data-text="Открыть доступ" class="ym-btn-pay ym-result-price">
             <span class="ym-text-crop">Открыть доступ</span>
             <span class="ym-price-output">1&nbsp;990,00&nbsp;₽</span>
         </button>
@@ -154,4 +174,3 @@ title: Доступ к гиду
 </div>
 
 <script src="https://yookassa.ru/integration/simplepay/js/yookassa_construct_form.js?v=1.25.0"></script>
-
