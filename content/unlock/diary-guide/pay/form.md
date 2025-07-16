@@ -112,7 +112,7 @@ title: Доступ к гиду
 <div class="payment-form-container" style="background-color: #ffffff; padding: 2rem 1rem; border-radius: 8px;">
 <link rel="stylesheet" href="https://yookassa.ru/integration/simplepay/css/yookassa_construct_form.css?v=1.25.0">
 
-<!-- Добавляем дополнительные стили для расширения кнопки -->
+<!-- Безопасные стили только для ширины кнопки -->
 <style>
 .ym-btn-pay.ym-result-price {
     width: 100% !important;
@@ -122,12 +122,6 @@ title: Доступ к гиду
 
 .ym-payment-btn-block {
     width: 100% !important;
-}
-
-.ym-text-crop {
-    white-space: nowrap !important;
-    overflow: visible !important;
-    text-overflow: unset !important;
 }
 </style>
 
