@@ -1,6 +1,5 @@
 ---
 draft: false
-link: start-here
 title: Ключ к Цифровому Дневнику – Начать здесь
 ---
 Привет.
