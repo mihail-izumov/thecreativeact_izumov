@@ -4,4 +4,4 @@ title: Поддержка
 ---
 # Поддержка
 
-[Написать в Телеграм](https://t.me/mikhail_izyumov)
+[Написать в Телеграм](https://t.me/mikhail_izumov)
